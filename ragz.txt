@@ -1,3 +1,5 @@
 modify
 
 new line
+
+This line added as part of Master branch
