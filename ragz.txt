@@ -2,4 +2,4 @@ modify
 
 new line
 
-This line added as part of Master branch
+This line added as part of feature branch
